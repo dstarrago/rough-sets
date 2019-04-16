@@ -11,7 +11,7 @@ Features implemented:
   * class quality
   
 Developed with NetBeans IDE 8.2
-Java 1.8
+  Java 1.8
 
 Dependencies:
 - Weka 3.7
