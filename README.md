@@ -10,9 +10,9 @@ Features implemented:
   * rough agreement
   * class quality
   
-Developed with NetBeans IDE 8.2
-
-Java 1.8
+Developed with:
+- Java 1.8
+- NetBeans IDE 8.2
 
 Dependencies:
 - Weka 3.7
