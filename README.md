@@ -8,7 +8,7 @@ Features implemented:
   * rough membership
   * rough involvement
   * rough agreement
-  * class quality
+  * rough class quality
   
 Developed with:
 - Java 1.8
