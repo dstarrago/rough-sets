@@ -10,7 +10,7 @@ Features implemented:
   * rough agreement
   * rough class quality
   
-Usage: These rough-set measures were used in
+Usage: The library was used in
 - Tarragó, D.S., Bello, R., Herrera, F.: Data Complexity by means of Rough Set Measures. In: Proceedings of the Cuba-Flanders Workshop on Machine Learning and Knowledge Discovery (CF-WML-KD2010). Editorial Feijoó, Central University Marta Abreu de Las Villas (2010). <a href="https://www.researchgate.net/publication/332462004_Data_Complexity_by_means_of_Rough_Set_Measures">(text)</a>
 
   
